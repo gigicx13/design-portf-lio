@@ -1,0 +1,8 @@
+PORTFÓLIO — GISELLA MEDEIROS
+
+Para abrir o portfólio neste computador:
+1. Extraia a pasta Portfolio-Gisella-Transfer para um local de sua preferência.
+2. Mantenha todos os arquivos HTML e a pasta assets juntos.
+3. Abra portfolio-profissional.html no navegador.
+
+As imagens do projeto Tech Day estão em assets/tech-day. Não mova os arquivos HTML para fora da pasta sem levar a pasta assets também.
